@@ -1,0 +1,27 @@
+{
+  "name": "sm-calculate",
+  "version": "1.0.0",
+  "description": "解决浮点小数四则运算问题",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/findvv/calculator.git"
+  },
+  "keywords": [
+    "float",
+    "calculate"
+  ],
+  "author": "zzx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/findvv/calculator/issues"
+  },
+  "homepage": "https://github.com/findvv/calculator#readme",
+  "dependencies": {
+    "mocha": "^2.5.3",
+    "sm-movepoint": "^1.0.0"
+  }
+}
